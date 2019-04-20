@@ -27,9 +27,36 @@
 </head>
 
 <body>
-    <h1>Trivia!!</h1>
-
-
+   
+    <audio controls loop>
+        <!--need to add audio!!-->
+        <source src="" type="audio/mp3"/>
+      </audio>
+     
+      <div class="container">
+        <div class="header text-center clearfix">
+          <h1 class="text-muted">Trivia!!</h1>
+        </div>
+        <div class="jumbotron jumbotron-fluid">
+          <div class="container">
+          <div id="game">
+            <h2>Trivia Game</h2>
+            <p id="remaining-time" class="lead">Remaining Time: <span id="timer"></span></p>
+            <p id="question" class="lead"></p>
+          </div>
+          <div id="results">
+          </div>
+        </div>
+  
+        <div class="row">
+          <div id="choices" class="text-center">
+            <button id="start" class="btn btn-info btn-lg">Start Game</button>
+            <div id="options">
+              
+            </div>
+            
+          </div>
+        </div>
 </body>
 
 </html>

@@ -1,5 +1,7 @@
 body{
-	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwlhxs5gueEnbTtnMlcSYCyu1XPgZ76KbjU5QF3oGYn7h3gAY);
+	background-image: url(TriviaGame/assets/images/aerialnyc1.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
 	text-align: center;
 }
 
