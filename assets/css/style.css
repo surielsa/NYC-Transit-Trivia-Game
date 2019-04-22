@@ -1,16 +1,18 @@
-body{
-	background-image: url(TriviaGame/assets/images/aerialnyc1.jpeg);
+body {
+	background-image: url(https://imgs.6sqft.com/wp-content/uploads/2015/08/20150319/nyc-subway-system-map-overlaid-over-manhattan-aerial-image.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;
 }
 
-.text-muted{
+.text-muted {
 	color: rgb(62, 20, 60);
 }
-.last-seconds{
-  color: rgb(61, 54, 54);
+
+.last-seconds {
+	color: rgb(61, 54, 54);
 }
-.option{
-  margin: 15px;
+
+.option {
+	margin: 15px;
 }
