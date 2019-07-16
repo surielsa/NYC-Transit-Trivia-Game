@@ -1,4 +1,4 @@
-# TriviaGame
+# NYC Transit Trivia Game
 
 https://surielsa.github.io/NYC-Transit-TriviaGame/
 
